@@ -1,3 +1,10 @@
+# Version 5.9
+- Unbegrenzte Auswahl der vorhandenen Wochenziele
+- Wöchentlich drei Fotos: vorne, Seite, hinten
+- Vergleich zweier Wochen nach Perspektive
+- Fotos lokal in IndexedDB; ZIP-Gesamtsicherung mit Fotos und Tagebuchdaten
+- ZIP-Import zum Wiederherstellen
+
 ## v5.8
 - Persönliches Startdatum und Startgewicht in Einstellungen
 - Automatische 5-%- und 10-%-Gewichtsmeilensteine

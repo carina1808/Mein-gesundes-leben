@@ -22,3 +22,6 @@ Eine lokale Kopie im Browser ist kein Ersatz für eine externe Sicherung.
 
 ## Updates
 Die PWA versucht beim Öffnen online die aktuelle Version zu laden. Offline wird die zwischengespeicherte App verwendet.
+
+
+Version 5.9: Fotos liegen in IndexedDB und werden nicht von der normalen JSON-Sicherung erfasst. Für vollständige Backups unter Einstellungen die ZIP-Sicherung verwenden.
