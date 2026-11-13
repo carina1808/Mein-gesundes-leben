@@ -1,3 +1,8 @@
+## v5.8
+- Persönliches Startdatum und Startgewicht in Einstellungen
+- Automatische 5-%- und 10-%-Gewichtsmeilensteine
+- Bisherige Gewichtsveränderung in kg und Prozent
+
 # Änderungen
 
 ## v5.7
