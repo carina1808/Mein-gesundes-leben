@@ -1,3 +1,6 @@
+## Version 5.10
+- Fortschrittsfotos: Dateiauswahl aus Galerie/Dateimanager statt direktem Kameraaufruf.
+
 # Version 5.9
 - Unbegrenzte Auswahl der vorhandenen Wochenziele
 - Wöchentlich drei Fotos: vorne, Seite, hinten
