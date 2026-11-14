@@ -1,3 +1,7 @@
+## Version 5.23
+- Mahlzeitentext und einzelne Lebensmittel stehen rechts neben dem Mahlzeitenbild.
+- Kompaktere Mahlzeitenkacheln im Tagebuch.
+
 ## Version 5.22
 - Mehrere Lebensmittel pro Mahlzeit/Snack mit individuellen Kennzeichen und Portionen.
 - Naschen zeigt nur einzeln markierte Lebensmittel.
