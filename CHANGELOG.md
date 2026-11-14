@@ -128,3 +128,6 @@
 ## 5.30
 - Tagebuch: Abschnitt Gewicht/Bauchumfang heißt nun „Messwerte“.
 - Fotos: Antippen öffnet eine vergrößerte Ansicht, Schließen über Kreuz, Hintergrund oder Escape.
+
+## 5.31
+- Fehlerbehebung: Foto-Großansicht wird erst beim Antippen mit den vorhandenen Dialogelementen verbunden.
