@@ -1,3 +1,7 @@
+## Version 5.29
+- Fehler behoben: Beim Antippen der Eingabefelder innerhalb einer Mahlzeit bleibt der Editor geöffnet.
+- Buttons und Checkboxen innerhalb des Editors schließen die Mahlzeit nicht mehr unbeabsichtigt.
+
 ## Version 5.28
 - Tagebuch: Mahlzeiten, Trinkmenge, Bewegung, Gewicht/Bauchumfang und Schlaf sind jeweils eigenständige, klar abgegrenzte Kacheln.
 - Einheitliche, dezente Kachelumrandung und Abstände auch in den übrigen Ansichten.
