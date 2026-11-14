@@ -1,3 +1,12 @@
+## v5.20
+- Illustrierte Mahlzeitensymbole für Frühstück, Mittagessen, Abendessen und Snack
+- Bilddateien offline verfügbar
+
+## v5.19
+- Symbole für Frühstück, Mittagessen, Abendessen und Snacks
+- Snacks lassen sich zeitlich vor, zwischen oder nach den Hauptmahlzeiten einsortieren
+- Bestehende Snacks bleiben erhalten und erscheinen zunächst nach dem Abendessen
+
 ## v5.18
 - Gewicht direkt über Schlaf im Tagebuch
 - Gewicht als kompakte Leseansicht, Bearbeitung durch Antippen
