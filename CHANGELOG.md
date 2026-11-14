@@ -111,3 +111,7 @@
 - Datum im Tagebuch kräftiger und zentriert dargestellt.
 - Überflüssige Trennlinien im unteren Tagebuchbereich entfernt.
 - App-Icon bleibt vorerst unverändert; alternative Konzepte zur Auswahl.
+
+## 5.27
+- Tagebuchdatum auch innerhalb des Datumsfeldes zentriert (Android/Chrome).
+- Sprössling-App-Icon ersetzt das Emoji im Kopfbereich der App.
