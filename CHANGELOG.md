@@ -124,3 +124,7 @@
 ## 5.27
 - Tagebuchdatum auch innerhalb des Datumsfeldes zentriert (Android/Chrome).
 - Sprössling-App-Icon ersetzt das Emoji im Kopfbereich der App.
+
+## 5.30
+- Tagebuch: Abschnitt Gewicht/Bauchumfang heißt nun „Messwerte“.
+- Fotos: Antippen öffnet eine vergrößerte Ansicht, Schließen über Kreuz, Hintergrund oder Escape.
