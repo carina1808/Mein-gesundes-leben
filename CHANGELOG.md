@@ -1,3 +1,9 @@
+## Version 5.22
+- Mehrere Lebensmittel pro Mahlzeit/Snack mit individuellen Kennzeichen und Portionen.
+- Naschen zeigt nur einzeln markierte Lebensmittel.
+- Gewohnheit „Naschen“ verwendet die Grenzwerte aus Einstellungen.
+- Bisherige Mahlzeiten werden beim Bearbeiten als ein Lebensmittel übernommen.
+
 ## v5.21
 - Plus zum Hinzufügen eines weiteren Snacks rechts neben die Überschrift „Mahlzeiten“ verschoben
 - Plus aus dem Snack-Eintrag entfernt
