@@ -1,3 +1,8 @@
+## v5.18
+- Gewicht direkt über Schlaf im Tagebuch
+- Gewicht als kompakte Leseansicht, Bearbeitung durch Antippen
+- Bauchumfang-Eingabe alle sieben Tage weiterhin im selben Editor
+
 ## v5.17
 - Gewichtseingabe ins Tagebuch verschoben (Datum der Tagebuchseite)
 - Bauchumfang-Eingabe im Tagebuch alle sieben Tage bzw. für bereits erfasste Messtage
