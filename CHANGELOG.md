@@ -1,3 +1,7 @@
+## Version 5.26
+- Neues App-Icon: grüner Sprössling.
+- Keine Änderungen an den gespeicherten Daten oder Funktionen.
+
 ## Version 5.24
 - Kennzeichnungs-Chips stehen direkt neben der Mahlzeitenüberschrift.
 - Noch flachere Mahlzeitenkacheln im Tagebuch.
@@ -102,3 +106,8 @@
 
 ## v5.4
 - Verbesserte lokale Datensicherung
+
+## 5.25
+- Datum im Tagebuch kräftiger und zentriert dargestellt.
+- Überflüssige Trennlinien im unteren Tagebuchbereich entfernt.
+- App-Icon bleibt vorerst unverändert; alternative Konzepte zur Auswahl.
