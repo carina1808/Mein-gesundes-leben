@@ -1,3 +1,8 @@
+## Version 5.28
+- Tagebuch: Mahlzeiten, Trinkmenge, Bewegung, Gewicht/Bauchumfang und Schlaf sind jeweils eigenständige, klar abgegrenzte Kacheln.
+- Einheitliche, dezente Kachelumrandung und Abstände auch in den übrigen Ansichten.
+- Datenhaltung unverändert.
+
 ## Version 5.26
 - Neues App-Icon: grüner Sprössling.
 - Keine Änderungen an den gespeicherten Daten oder Funktionen.
