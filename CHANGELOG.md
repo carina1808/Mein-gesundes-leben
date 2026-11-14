@@ -1,3 +1,12 @@
+## Version 5.14
+- Offene Gewichtsmeilensteine ohne Statusanzeige.
+- Erreichte Meilensteine mit grünem Hintergrund und Häkchen.
+
+## Version 5.13
+- Fortschrittsbalken oberhalb aller Gewichtsetappen
+- Etappen nach Zielgewicht absteigend sortiert, mit jeweiliger Abnahme seit Start
+- BMI-Bereichsgrenzen als weitere Meilensteine
+
 ## v5.12
 - Ein Wasserglas entspricht 0,3 Litern statt 0,2 Litern.
 - Anzeige, Tagesgesamtmenge, Beschriftung und Wasser-Wochenziel angepasst.
