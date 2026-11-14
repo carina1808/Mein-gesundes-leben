@@ -1,3 +1,9 @@
+# Änderungen
+
+## v5.11
+- Alle Wochen laufen jetzt von Samstag bis Freitag: Wochenrückblick, Wochenziele, Krafttraining, Naschen und Fortschrittsfotos.
+- Vorhandene Wochenfotos mit alter Montag-Zuordnung werden beim Öffnen des Fotobereichs vorsichtig auf die passende Samstagswoche umgestellt.
+
 ## Version 5.10
 - Fortschrittsfotos: Dateiauswahl aus Galerie/Dateimanager statt direktem Kameraaufruf.
 
