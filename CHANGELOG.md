@@ -1,3 +1,9 @@
+## v5.12
+- Ein Wasserglas entspricht 0,3 Litern statt 0,2 Litern.
+- Anzeige, Tagesgesamtmenge, Beschriftung und Wasser-Wochenziel angepasst.
+- Standard-Ampelgrenzen: gelb ab 5, grün ab 7 Gläsern. Eigene Grenzwerte werden auf die neue Glasgröße umgerechnet.
+- Bestehende Glasanzahlen bleiben erhalten und werden mit 0,3 l pro Glas bewertet.
+
 # Änderungen
 
 ## v5.11
