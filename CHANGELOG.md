@@ -1,3 +1,8 @@
+## v5.17
+- Gewichtseingabe ins Tagebuch verschoben (Datum der Tagebuchseite)
+- Bauchumfang-Eingabe im Tagebuch alle sieben Tage bzw. für bereits erfasste Messtage
+- Gewicht-Ansicht zeigt nur noch Verlauf, Ziele und Auswertungen
+
 ## v5.16
 - Einstellungen als Zahnrad oben rechts neben dem App-Titel
 - Einstellungen aus der unteren Navigationsleiste entfernt
