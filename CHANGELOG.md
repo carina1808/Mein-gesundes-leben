@@ -1,3 +1,7 @@
+## v5.21
+- Plus zum Hinzufügen eines weiteren Snacks rechts neben die Überschrift „Mahlzeiten“ verschoben
+- Plus aus dem Snack-Eintrag entfernt
+
 ## v5.20
 - Illustrierte Mahlzeitensymbole für Frühstück, Mittagessen, Abendessen und Snack
 - Bilddateien offline verfügbar
