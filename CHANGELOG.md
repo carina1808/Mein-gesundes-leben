@@ -1,3 +1,7 @@
+## Version 5.24
+- Kennzeichnungs-Chips stehen direkt neben der Mahlzeitenüberschrift.
+- Noch flachere Mahlzeitenkacheln im Tagebuch.
+
 ## Version 5.23
 - Mahlzeitentext und einzelne Lebensmittel stehen rechts neben dem Mahlzeitenbild.
 - Kompaktere Mahlzeitenkacheln im Tagebuch.
