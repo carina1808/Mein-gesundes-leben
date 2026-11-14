@@ -1,3 +1,8 @@
+## v5.15
+- Nur erreichte Gewichtsmeilensteine und die nächste Etappe sichtbar
+- Weitere Etappen aufklappbar
+- Markierungen für jede Etappe im Fortschrittsbalken
+
 ## Version 5.14
 - Offene Gewichtsmeilensteine ohne Statusanzeige.
 - Erreichte Meilensteine mit grünem Hintergrund und Häkchen.
