@@ -1,3 +1,8 @@
+## v5.16
+- Einstellungen als Zahnrad oben rechts neben dem App-Titel
+- Einstellungen aus der unteren Navigationsleiste entfernt
+- Aktive Einstellungsansicht am Zahnrad hervorgehoben
+
 ## v5.15
 - Nur erreichte Gewichtsmeilensteine und die nächste Etappe sichtbar
 - Weitere Etappen aufklappbar
