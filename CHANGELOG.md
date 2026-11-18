@@ -1,3 +1,8 @@
+## 5.32
+- Wochenziele: Schritte nach eingestellter grüner Schrittgrenze und Eiweiß anhand einzelner Lebensmittel in den drei Hauptmahlzeiten zählen.
+- Gewohnheit „Schritte“ statt „> 8000 Schritte“.
+- Naschfreie Tage mit grünem Häkchen und „Naschfrei“ hervorgehoben.
+
 ## Version 5.29
 - Fehler behoben: Beim Antippen der Eingabefelder innerhalb einer Mahlzeit bleibt der Editor geöffnet.
 - Buttons und Checkboxen innerhalb des Editors schließen die Mahlzeit nicht mehr unbeabsichtigt.
